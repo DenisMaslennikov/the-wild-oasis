@@ -1,5 +1,5 @@
 # The Wild Oasis
-Учебный проект созданный в рамках прохождение курса - "The Ultimate React Course"
+Учебный проект созданный в рамках прохождение курса - ["The Ultimate React Course"](https://www.udemy.com/course/the-ultimate-react-course/)
 
 ## Запуск.
 1) Для запуска проекта требуется установленная в системе [Node.js](https://nodejs.org/en)
